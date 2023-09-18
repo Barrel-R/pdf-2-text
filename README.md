@@ -31,6 +31,7 @@ Install dependencies:
 composer install
 ```
 Usage
+---
 Run the script:
 ```bash
 php pdf-extractor.php
